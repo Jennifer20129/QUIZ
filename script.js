@@ -124,6 +124,15 @@ const questions = [
             { text: "Applied Programming Index", correct: false },
             { text: "Advanced Protocol Integration", correct: false }
         ]
+    },
+    {
+        question:'which is not a non-primitive data type in JavaScript?',
+        answers:[
+        { text:'null',correct:false},
+        { text:'set',correct:true},
+        { text:'undefined',correct:false},
+        { text:'function',correct:false},
+        ]
     }
 ];
 
